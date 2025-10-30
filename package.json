@@ -1,0 +1,11 @@
+{
+  "name": "nano-banana-api",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node api/generate.js"
+  },
+  "dependencies": {
+    "@google/genai": "^1.0.0"
+  }
+}
